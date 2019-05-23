@@ -5,7 +5,7 @@
   "dependencies": {},
   "devDependencies": {
     "cordova": "^5.4.1",
-    "elementtree": "0.1.6",
+    "elementtree": "0.1.7",
     "glob": "~4.3.5",
     "grunt": "~0.4.5",
     "grunt-autoprefixer": "~2.2.0",
